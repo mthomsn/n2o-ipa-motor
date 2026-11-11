@@ -1,7 +1,5 @@
 # N2O / IPA liquid motor: injector and nozzle design
 
-[![checks](https://github.com/mthomsn/n2o-ipa-motor/actions/workflows/checks.yml/badge.svg)](https://github.com/mthomsn/n2o-ipa-motor/actions/workflows/checks.yml)
-
 Design tools for a small nitrous oxide / isopropyl alcohol bipropellant rocket motor:
 sizing and layout of an unlike-doublet injector, a reduced-order model of spray,
 vaporization and mixing in the chamber, and 1-D isentropic sizing of cold-flow test nozzles.
