@@ -1,0 +1,31 @@
+element,propellant,x_mm,y_mm,radius_mm,clock_deg,drill_mm,tilt_deg,tilt_direction,plug_for_12
+0,OX,0.0,34.334,34.334,0.0,2.819,17.2,inward (toward center),PLUG
+0,FUEL,0.0,21.917,21.917,0.0,1.1,30.0,outward (away from center),PLUG
+1,OX,13.965,31.365,34.334,24.0,2.819,17.2,inward (toward center),
+1,FUEL,8.914,20.022,21.917,24.0,1.1,30.0,outward (away from center),
+2,OX,25.515,22.974,34.334,48.0,2.819,17.2,inward (toward center),
+2,FUEL,16.288,14.665,21.917,48.0,1.1,30.0,outward (away from center),
+3,OX,32.653,10.61,34.334,72.0,2.819,17.2,inward (toward center),
+3,FUEL,20.844,6.773,21.917,72.0,1.1,30.0,outward (away from center),
+4,OX,34.146,-3.589,34.334,96.0,2.819,17.2,inward (toward center),
+4,FUEL,21.797,-2.291,21.917,96.0,1.1,30.0,outward (away from center),
+5,OX,29.734,-17.167,34.334,120.0,2.819,17.2,inward (toward center),PLUG
+5,FUEL,18.981,-10.959,21.917,120.0,1.1,30.0,outward (away from center),PLUG
+6,OX,20.181,-27.777,34.334,144.0,2.819,17.2,inward (toward center),
+6,FUEL,12.883,-17.731,21.917,144.0,1.1,30.0,outward (away from center),
+7,OX,7.138,-33.583,34.334,168.0,2.819,17.2,inward (toward center),
+7,FUEL,4.557,-21.438,21.917,168.0,1.1,30.0,outward (away from center),
+8,OX,-7.138,-33.583,34.334,192.0,2.819,17.2,inward (toward center),
+8,FUEL,-4.557,-21.438,21.917,192.0,1.1,30.0,outward (away from center),
+9,OX,-20.181,-27.777,34.334,216.0,2.819,17.2,inward (toward center),
+9,FUEL,-12.883,-17.731,21.917,216.0,1.1,30.0,outward (away from center),
+10,OX,-29.734,-17.167,34.334,240.0,2.819,17.2,inward (toward center),PLUG
+10,FUEL,-18.981,-10.959,21.917,240.0,1.1,30.0,outward (away from center),PLUG
+11,OX,-34.146,-3.589,34.334,264.0,2.819,17.2,inward (toward center),
+11,FUEL,-21.797,-2.291,21.917,264.0,1.1,30.0,outward (away from center),
+12,OX,-32.653,10.61,34.334,288.0,2.819,17.2,inward (toward center),
+12,FUEL,-20.844,6.773,21.917,288.0,1.1,30.0,outward (away from center),
+13,OX,-25.515,22.974,34.334,312.0,2.819,17.2,inward (toward center),
+13,FUEL,-16.288,14.665,21.917,312.0,1.1,30.0,outward (away from center),
+14,OX,-13.965,31.365,34.334,336.0,2.819,17.2,inward (toward center),
+14,FUEL,-8.914,20.022,21.917,336.0,1.1,30.0,outward (away from center),

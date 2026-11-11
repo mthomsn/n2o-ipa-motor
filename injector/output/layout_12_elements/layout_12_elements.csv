@@ -1,0 +1,25 @@
+element,propellant,x_mm,y_mm,radius_mm,clock_deg,drill_mm,tilt_deg,tilt_direction,plug_for_8
+0,OX,0.0,25.666,25.666,0.0,3.454,17.2,outward (away from center),PLUG
+0,FUEL,0.0,38.083,38.083,0.0,1.35,30.0,inward (toward center),PLUG
+1,OX,12.833,22.228,25.666,30.0,3.454,17.2,outward (away from center),
+1,FUEL,19.041,32.981,38.083,30.0,1.35,30.0,inward (toward center),
+2,OX,22.228,12.833,25.666,60.0,3.454,17.2,outward (away from center),
+2,FUEL,32.981,19.041,38.083,60.0,1.35,30.0,inward (toward center),
+3,OX,25.666,0.0,25.666,90.0,3.454,17.2,outward (away from center),PLUG
+3,FUEL,38.083,0.0,38.083,90.0,1.35,30.0,inward (toward center),PLUG
+4,OX,22.228,-12.833,25.666,120.0,3.454,17.2,outward (away from center),
+4,FUEL,32.981,-19.041,38.083,120.0,1.35,30.0,inward (toward center),
+5,OX,12.833,-22.228,25.666,150.0,3.454,17.2,outward (away from center),
+5,FUEL,19.041,-32.981,38.083,150.0,1.35,30.0,inward (toward center),
+6,OX,0.0,-25.666,25.666,180.0,3.454,17.2,outward (away from center),PLUG
+6,FUEL,0.0,-38.083,38.083,180.0,1.35,30.0,inward (toward center),PLUG
+7,OX,-12.833,-22.228,25.666,210.0,3.454,17.2,outward (away from center),
+7,FUEL,-19.041,-32.981,38.083,210.0,1.35,30.0,inward (toward center),
+8,OX,-22.228,-12.833,25.666,240.0,3.454,17.2,outward (away from center),
+8,FUEL,-32.981,-19.041,38.083,240.0,1.35,30.0,inward (toward center),
+9,OX,-25.666,-0.0,25.666,270.0,3.454,17.2,outward (away from center),PLUG
+9,FUEL,-38.083,-0.0,38.083,270.0,1.35,30.0,inward (toward center),PLUG
+10,OX,-22.228,12.833,25.666,300.0,3.454,17.2,outward (away from center),
+10,FUEL,-32.981,19.041,38.083,300.0,1.35,30.0,inward (toward center),
+11,OX,-12.833,22.228,25.666,330.0,3.454,17.2,outward (away from center),
+11,FUEL,-19.041,32.981,38.083,330.0,1.35,30.0,inward (toward center),

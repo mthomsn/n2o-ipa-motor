@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1179" height="1179" viewBox="0 0 1179 1179" font-family="Helvetica, Arial, sans-serif" font-size="13">
+<rect width="100%" height="100%" fill="white"/>
+<text x="289" y="24" text-anchor="middle" font-size="18" font-weight="bold">15 elements (30 holes), looking upstream from chamber</text>
+<circle cx="289.29999999999995" cy="309.29999999999995" r="241.29999999999998" fill="#f8f9fa" stroke="black" stroke-width="2"/>
+<circle cx="289.29999999999995" cy="309.29999999999995" r="120.0" fill="none" stroke="#2b8a3e" stroke-dasharray="6 4"/>
+<text x="289.29999999999995" y="341.29999999999995" text-anchor="middle" fill="#2b8a3e">impingement circle R30 (dashed)</text>
+<circle cx="289.29999999999995" cy="309.29999999999995" r="102.66510426795807" fill="none" stroke="#ced4da" stroke-width="0.8"/>
+<circle cx="289.29999999999995" cy="309.29999999999995" r="152.33161507461904" fill="none" stroke="#ced4da" stroke-width="0.8"/>
+<line x1="281.29999999999995" y1="309.29999999999995" x2="297.29999999999995" y2="309.29999999999995" stroke="black"/>
+<line x1="289.29999999999995" y1="301.29999999999995" x2="289.29999999999995" y2="317.29999999999995" stroke="black"/>
+<circle cx="289.3" cy="206.6" r="10.0" fill="none" stroke="#868e96" stroke-dasharray="3 2"/>
+<circle cx="289.3" cy="206.6" r="5.6" fill="#868e96"/>
+<line x1="282.3" y1="199.6" x2="296.3" y2="213.6" stroke="#868e96" stroke-width="2"/>
+<line x1="282.3" y1="213.6" x2="296.3" y2="199.6" stroke="#868e96" stroke-width="2"/>
+<circle cx="289.3" cy="157.0" r="6.0" fill="none" stroke="#868e96" stroke-dasharray="3 2"/>
+<circle cx="289.3" cy="157.0" r="2.2" fill="#868e96"/>
+<line x1="285.1" y1="152.8" x2="293.5" y2="161.2" stroke="#868e96" stroke-width="2"/>
+<line x1="285.1" y1="161.2" x2="293.5" y2="152.8" stroke="#868e96" stroke-width="2"/>
+<text x="289.3" y="125.0" text-anchor="middle" font-weight="bold">0</text>
+<circle cx="331.1" cy="215.5" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="331.1" cy="215.5" r="5.6" fill="#d9480f"/>
+<line x1="331.1" y1="215.5" x2="336.8" y2="202.7" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="351.3" cy="170.1" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="351.3" cy="170.1" r="2.2" fill="#1971c2"/>
+<text x="365.9" y="141.3" text-anchor="middle" font-weight="bold">1</text>
+<line x1="351.3" y1="170.1" x2="345.6" y2="182.9" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="365.6" cy="240.6" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="365.6" cy="240.6" r="5.6" fill="#d9480f"/>
+<line x1="365.6" y1="240.6" x2="376.0" y2="231.2" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="402.5" cy="207.4" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="402.5" cy="207.4" r="2.2" fill="#1971c2"/>
+<text x="429.3" y="187.3" text-anchor="middle" font-weight="bold">2</text>
+<line x1="402.5" y1="207.4" x2="392.1" y2="216.7" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="386.9" cy="277.6" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="386.9" cy="277.6" r="5.6" fill="#d9480f"/>
+<line x1="386.9" y1="277.6" x2="400.3" y2="273.2" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="434.2" cy="262.2" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="434.2" cy="262.2" r="2.2" fill="#1971c2"/>
+<text x="468.4" y="255.1" text-anchor="middle" font-weight="bold">3</text>
+<line x1="434.2" y1="262.2" x2="420.9" y2="266.6" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="391.4" cy="320.0" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="391.4" cy="320.0" r="5.6" fill="#d9480f"/>
+<line x1="391.4" y1="320.0" x2="405.3" y2="321.5" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="440.8" cy="325.2" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="440.8" cy="325.2" r="2.2" fill="#1971c2"/>
+<text x="476.6" y="333.0" text-anchor="middle" font-weight="bold">4</text>
+<line x1="440.8" y1="325.2" x2="426.9" y2="323.8" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="378.2" cy="360.6" r="10.0" fill="none" stroke="#868e96" stroke-dasharray="3 2"/>
+<circle cx="378.2" cy="360.6" r="5.6" fill="#868e96"/>
+<line x1="371.2" y1="353.6" x2="385.2" y2="367.6" stroke="#868e96" stroke-width="2"/>
+<line x1="371.2" y1="367.6" x2="385.2" y2="353.6" stroke="#868e96" stroke-width="2"/>
+<circle cx="421.2" cy="385.5" r="6.0" fill="none" stroke="#868e96" stroke-dasharray="3 2"/>
+<circle cx="421.2" cy="385.5" r="2.2" fill="#868e96"/>
+<line x1="417.0" y1="381.3" x2="425.4" y2="389.7" stroke="#868e96" stroke-width="2"/>
+<line x1="417.0" y1="389.7" x2="425.4" y2="381.3" stroke="#868e96" stroke-width="2"/>
+<text x="452.4" y="407.5" text-anchor="middle" font-weight="bold">5</text>
+<circle cx="349.6" cy="392.4" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="349.6" cy="392.4" r="5.6" fill="#d9480f"/>
+<line x1="349.6" y1="392.4" x2="357.9" y2="403.7" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="378.8" cy="432.5" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="378.8" cy="432.5" r="2.2" fill="#1971c2"/>
+<text x="400.0" y="465.7" text-anchor="middle" font-weight="bold">6</text>
+<line x1="378.8" y1="432.5" x2="370.6" y2="421.2" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="310.6" cy="409.7" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="310.6" cy="409.7" r="5.6" fill="#d9480f"/>
+<line x1="310.6" y1="409.7" x2="313.6" y2="423.4" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="321.0" cy="458.3" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="321.0" cy="458.3" r="2.2" fill="#1971c2"/>
+<text x="328.5" y="497.5" text-anchor="middle" font-weight="bold">7</text>
+<line x1="321.0" y1="458.3" x2="318.1" y2="444.6" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="268.0" cy="409.7" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="268.0" cy="409.7" r="5.6" fill="#d9480f"/>
+<line x1="268.0" y1="409.7" x2="265.0" y2="423.4" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="257.6" cy="458.3" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="257.6" cy="458.3" r="2.2" fill="#1971c2"/>
+<text x="250.1" y="497.5" text-anchor="middle" font-weight="bold">8</text>
+<line x1="257.6" y1="458.3" x2="260.5" y2="444.6" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="229.0" cy="392.4" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="229.0" cy="392.4" r="5.6" fill="#d9480f"/>
+<line x1="229.0" y1="392.4" x2="220.7" y2="403.7" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="199.8" cy="432.5" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="199.8" cy="432.5" r="2.2" fill="#1971c2"/>
+<text x="178.6" y="465.7" text-anchor="middle" font-weight="bold">9</text>
+<line x1="199.8" y1="432.5" x2="208.0" y2="421.2" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="200.4" cy="360.6" r="10.0" fill="none" stroke="#868e96" stroke-dasharray="3 2"/>
+<circle cx="200.4" cy="360.6" r="5.6" fill="#868e96"/>
+<line x1="193.4" y1="353.6" x2="207.4" y2="367.6" stroke="#868e96" stroke-width="2"/>
+<line x1="193.4" y1="367.6" x2="207.4" y2="353.6" stroke="#868e96" stroke-width="2"/>
+<circle cx="157.4" cy="385.5" r="6.0" fill="none" stroke="#868e96" stroke-dasharray="3 2"/>
+<circle cx="157.4" cy="385.5" r="2.2" fill="#868e96"/>
+<line x1="153.2" y1="381.3" x2="161.6" y2="389.7" stroke="#868e96" stroke-width="2"/>
+<line x1="153.2" y1="389.7" x2="161.6" y2="381.3" stroke="#868e96" stroke-width="2"/>
+<text x="126.2" y="407.5" text-anchor="middle" font-weight="bold">10</text>
+<circle cx="187.2" cy="320.0" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="187.2" cy="320.0" r="5.6" fill="#d9480f"/>
+<line x1="187.2" y1="320.0" x2="173.3" y2="321.5" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="137.8" cy="325.2" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="137.8" cy="325.2" r="2.2" fill="#1971c2"/>
+<text x="102.0" y="333.0" text-anchor="middle" font-weight="bold">11</text>
+<line x1="137.8" y1="325.2" x2="151.7" y2="323.8" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="191.7" cy="277.6" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="191.7" cy="277.6" r="5.6" fill="#d9480f"/>
+<line x1="191.7" y1="277.6" x2="178.3" y2="273.2" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="144.4" cy="262.2" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="144.4" cy="262.2" r="2.2" fill="#1971c2"/>
+<text x="110.2" y="255.1" text-anchor="middle" font-weight="bold">12</text>
+<line x1="144.4" y1="262.2" x2="157.7" y2="266.6" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="213.0" cy="240.6" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="213.0" cy="240.6" r="5.6" fill="#d9480f"/>
+<line x1="213.0" y1="240.6" x2="202.6" y2="231.2" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="176.1" cy="207.4" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="176.1" cy="207.4" r="2.2" fill="#1971c2"/>
+<text x="149.3" y="187.3" text-anchor="middle" font-weight="bold">13</text>
+<line x1="176.1" y1="207.4" x2="186.5" y2="216.7" stroke="#1971c2" stroke-width="1.5"/>
+<circle cx="247.5" cy="215.5" r="10.0" fill="none" stroke="#d9480f" stroke-dasharray="3 2"/>
+<circle cx="247.5" cy="215.5" r="5.6" fill="#d9480f"/>
+<line x1="247.5" y1="215.5" x2="241.8" y2="202.7" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="227.3" cy="170.1" r="6.0" fill="none" stroke="#1971c2" stroke-dasharray="3 2"/>
+<circle cx="227.3" cy="170.1" r="2.2" fill="#1971c2"/>
+<text x="212.7" y="141.3" text-anchor="middle" font-weight="bold">14</text>
+<line x1="227.3" y1="170.1" x2="233.0" y2="182.9" stroke="#1971c2" stroke-width="1.5"/>
+<text x="588.5999999999999" y="60" font-weight="bold" font-size="15">LEGEND</text>
+<circle cx="596.5999999999999" cy="75" r="6" fill="#d9480f"/>
+<text x="610.5999999999999" y="80" >N2O hole  2.819 mm, tilted 17.2° outward</text>
+<circle cx="596.5999999999999" cy="95" r="4" fill="#1971c2"/>
+<text x="610.5999999999999" y="100" >IPA hole  1.1 mm, tilted 30.0° inward</text>
+<circle cx="596.5999999999999" cy="115" r="6" fill="#868e96"/>
+<text x="610.5999999999999" y="120" >plugged pair (12-open config: 0, 5, 10)</text>
+<circle cx="596.5999999999999" cy="135" r="7" fill="none" stroke="black" stroke-dasharray="3 2"/>
+<text x="610.5999999999999" y="140" >thread envelope (ox 5, fuel 3 mm)</text>
+<text x="588.5999999999999" y="170" font-weight="bold" font-size="15">PLUG PATTERNS (element numbers)</text>
+<text x="588.5999999999999" y="190" >15 open: plug none</text>
+<text x="588.5999999999999" y="210" >12 open: plug 0, 5, 10</text>
+<text x="588.5999999999999" y="230" >10 open: plug 0, 3, 6, 9, 12</text>
+<text x="588.5999999999999" y="260" font-weight="bold" font-size="15">GEOMETRY</text>
+<text x="588.5999999999999" y="280" font-size="12">ox ring radius: 25.67 mm</text>
+<text x="588.5999999999999" y="298" font-size="12">fuel ring radius: 38.08 mm</text>
+<text x="588.5999999999999" y="316" font-size="12">ox-fuel spacing in element: 12.42 mm</text>
+<text x="588.5999999999999" y="334" font-size="12">wall between ox threads: 5.67 mm OK</text>
+<text x="588.5999999999999" y="352" font-size="12">wall between fuel threads: 12.84 mm OK</text>
+<text x="588.5999999999999" y="370" font-size="12">wall ox-to-fuel thread: 8.42 mm OK</text>
+<text x="588.5999999999999" y="388" font-size="12">outer thread to chamber wall: 20.74 mm OK</text>
+<text x="588.5999999999999" y="406" font-size="12">ox hole L/D: 3.0</text>
+<text x="588.5999999999999" y="424" font-size="12">fuel hole L/D: 8.4</text>
+<text x="588.5999999999999" y="462" font-weight="bold" font-size="15">ELEMENT SECTION (radial plane)</text>
+<rect x="598.5999999999999" y="492" width="146.91639391165668" height="56.0" fill="#e9ecef" stroke="black"/>
+<text x="594.5999999999999" y="524.0" text-anchor="end" font-size="11">face plate 8 mm</text>
+<line x1="611.3" y1="492" x2="658.9" y2="646.0" stroke="#d9480f" stroke-width="9.9" opacity="0.8"/>
+<line x1="747.8" y1="492" x2="658.9" y2="646.0" stroke="#1971c2" stroke-width="3.9" opacity="0.8"/>
+<line x1="658.9" y1="646.0" x2="658.9" y2="686.0" stroke="#2b8a3e" stroke-width="2" stroke-dasharray="5 3"/>
+<circle cx="658.9" cy="646.0" r="4" fill="#2b8a3e"/>
+<text x="666.9" y="650.0" font-size="11" fill="#2b8a3e">impinge 14 mm below face</text>
+<text x="598.5999999999999" y="704.0" font-size="11">← center</text>
+<text x="745.5163939116566" y="704.0" font-size="11" text-anchor="end">wall →</text>
+</svg>
