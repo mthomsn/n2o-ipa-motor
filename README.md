@@ -6,6 +6,9 @@ Design tools for a small nitrous oxide / isopropyl alcohol bipropellant rocket m
 sizing and layout of an unlike-doublet injector, a reduced-order model of spray,
 vaporization and mixing in the chamber, and 1-D isentropic sizing of cold-flow test nozzles.
 
+The motor is a Comet Rocketry (UT Dallas) team project. The
+code in this repo is my contribution to the injector and nozzle design.
+
 <p align="center">
   <img src="injector/output/renders/chamber_mixing_3d.png" alt="Local vapor O/F through the chamber and nozzle" width="440">
   <img src="injector/output/renders/injector_face.png" alt="Injector face layout, 12 drilled and 8 open" width="400">
@@ -63,4 +66,4 @@ python -m unittest discover tests
 
 ## License
 
-MIT
+All rights reserved for now, pending the club's OK on licensing.
