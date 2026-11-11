@@ -1,0 +1,27 @@
+name: checks
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      MPLBACKEND: Agg
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Unit tests
+        run: python -m unittest discover tests -v
+      - name: Smoke-run every script
+        working-directory: injector
+        run: |
+          python doublet_sizing.py
+          python injector_layout.py
+          python chamber_mixing.py
+          python injector_images.py
+          python chamber_plots.py
+      - name: Nozzle report
+        run: python nozzle/nozzle.py --contour nozzle_xyz.txt
